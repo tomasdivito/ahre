@@ -1,0 +1,14 @@
+{
+  "name": "reah",
+  "version": "1.0.0",
+  "description": "track your f#ckings ahres",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Di Vito",
+  "license": "ISC",
+  "dependencies": {
+    "node-twitter-api": "^1.8.0"
+  }
+}
